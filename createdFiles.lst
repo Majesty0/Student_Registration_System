@@ -1,0 +1,8 @@
+com\mycompany\studentregistrationsystem\DatabaseConnection.class
+com\mycompany\studentregistrationsystem\StudentRegistrationSystem.class
+com\mycompany\studentregistrationsystem\DataRetriever.class
+com\mycompany\studentregistrationsystem\StudentCourseRegistrationData.class
+com\mycompany\studentregistrationsystem\StudentAccountData.class
+com\mycompany\studentregistrationsystem\StudentData.class
+com\mycompany\studentregistrationsystem\TransactionData.class
+com\mycompany\studentregistrationsystem\DataInserter.class
